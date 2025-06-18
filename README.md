@@ -4,7 +4,6 @@
 
 This is a Laravel-based Learning Management System (LMS) application that supports two user roles: **Teacher** and **Student**. The application allows Teachers to manage subjects and tasks, while Students can enroll in subjects and submit solutions to tasks.
 
-> 🗓️ Assignment Submission Deadline: May 6  
 > ⚙️ Framework: Laravel 12  
 > 🧩 Database: SQLite  
 > 💻 UI: Tailwind CSS
